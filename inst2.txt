@@ -1,0 +1,17 @@
+npm init
+npm install --save-dev hardhat
+npx hardhat
+npm install @openzeppelin/contracts
+npm install dotenv --save
+.env file banado
+npm install @nomiclabs/hardhat-ethers 'ethers@^5.0.0'
+npx hardhat compile
+scripts me deploy1.js banadi
+npx hardhat run scripts/deploy1.js --network goerli
+npm install @alch/alchemy-web3
+make mint-nft.js
+go to pinata ,UPLOAD PHOTO AND MINT-NFT.JSON
+node scripts/mint-nft.js
+
+ 0x56766b24199d2a21358576fce36730658f4c46ddb8d5cb443c237c460e2bae35-hash of transaction
+ contract address -  0x271d2beb5db7266cd34d512c8f8c06ad247fab4a
